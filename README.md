@@ -8,7 +8,7 @@ Aspiring **Data Analyst** from Meerut, India. I hold a B.Tech in Information Tec
 - **Power BI** – DAX measures, KPI dashboards
 
 ## Featured project
-### 📊 Retail Sales & Customer Analytics
+### 📊 [Retail Sales & Customer Analytics](https://github.com/abhicodewizard/retail-sales-customer-analytics)
 End-to-end analysis (Excel → Python → SQL → Power BI) of a simulated retail dataset: data cleaning, a 3-table SQL database with 22 business queries, customer segmentation, and a Power BI dashboard.
 Key finding: discounts above 10% turn orders loss-making.
 **Tools:** Excel, Python (Pandas), SQL, Power BI
