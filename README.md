@@ -14,7 +14,7 @@ Key finding: discounts above 10% turn orders loss-making.
 **Tools:** Excel, Python (Pandas), SQL, Power BI
 
 
-### 📊 [Courier Delivery Performance & MIS Dashboard](https://github.com/abhicodewizard/courier-delivery-performance-mis)
+### 📊 [Courier Delivery Performance & MIS Dashboard](https://github.com/abhicodewizard/courier-delivery-mis-project)
 
 End-to-end MIS analytics project on 8,000+ courier shipments tracking SLA compliance, delivery delays, and carrier performance. Cleaned data using Python/Excel, built a 3-table SQL database with CTEs & Window Functions, and created an interactive Power BI dashboard. Key finding: Express service has lowest SLA compliance (76%) and COD returns are 2.5x higher than prepaid.  
 **Tools:** SQL, Python (Pandas), Power BI, Excel
