@@ -30,7 +30,7 @@ Looking for Data Analyst / MIS / Reporting roles.
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=abhicodewizard&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=abhicodewizard&theme=dark&hide_border=false)<br/>
