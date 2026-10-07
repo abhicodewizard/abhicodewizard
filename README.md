@@ -12,6 +12,12 @@ Aspiring **Data Analyst** from Meerut, India. I hold a B.Tech in Information Tec
 End-to-end analysis (Excel → Python → SQL → Power BI) of a simulated retail dataset: data cleaning, a 3-table SQL database with 22 business queries, customer segmentation, and a Power BI dashboard.
 Key finding: discounts above 10% turn orders loss-making.
 **Tools:** Excel, Python (Pandas), SQL, Power BI
+
+
+### 📊 [Courier Delivery Performance & MIS Dashboard](https://github.com/abhicodewizard/courier-delivery-performance-mis)
+
+End-to-end MIS analytics project on 8,000+ courier shipments tracking SLA compliance, delivery delays, and carrier performance. Cleaned data using Python/Excel, built a 3-table SQL database with CTEs & Window Functions, and created an interactive Power BI dashboard. Key finding: Express service has lowest SLA compliance (76%) and COD returns are 2.5x higher than prepaid.  
+**Tools:** SQL, Python (Pandas), Power BI, Excel
 ### 🔐 Certificate-less Multi-Replica Data Integrity Auditing Scheme (Academic Project)
 B.Tech project on cloud data auditing for Disaster Resilience Systems using IoT-generated data. Proposed a certificate-less multi-replica framework that removes certificate overhead and key escrow issues, using certificate-less cryptography and blockchain to improve data security, scalability and audit transparency.
 **Areas:** Cloud security, cryptography, blockchain
