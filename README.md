@@ -13,6 +13,11 @@ End-to-end analysis (Excel → Python → SQL → Power BI) of a simulated retai
 Key finding: discounts above 10% turn orders loss-making.
 **Tools:** Excel, Python (Pandas), SQL, Power BI
 
+### [Loan Portfolio & Credit Risk Analytics](https://github.com/abhicodewizard/loan-risk-analytics)
+Python cleaning → SQL star schema and 22 risk queries → Excel dashboard with live formulas → Power BI model.
+Built on a simulated 30,000-loan portfolio to show how credit risk analysis works.
+**Tools:** SQL · Excel (pivot tables, SUMIFS, INDEX-MATCH) · Python (pandas, matplotlib) · Power BI (DAX)
+
 
 ### 📊 [Courier Delivery Performance & MIS Dashboard](https://github.com/abhicodewizard/courier-delivery-mis-project)
 
